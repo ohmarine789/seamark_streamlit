@@ -1,0 +1,15 @@
+streamlit
+pandas
+plotly
+gspread
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-chroma
+chromadb
+google-genai
+google-auth-oauthlib
+google-auth
+langchain-huggingface
