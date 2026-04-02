@@ -112,7 +112,7 @@ def render_chatbot_ui(show_ai_ui):
     # if st.session_state.chat_open:
     if show_ai_ui:
         with st.sidebar:
-            st.title("🤖 AI 마케팅 어드바이저")
+            st.title("🤖 AI 어드바이저")
             
             # --- [FAQ 섹션] 벡터 DB 관련 정보 제공 ---
             with st.expander("📌 벡터 DB & 데이터 동기화 FAQ", expanded=True):
