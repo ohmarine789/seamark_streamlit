@@ -19,4 +19,7 @@ torch
 
 requests
 python-dotenv
-protobuf==3.20.3
+# 로컬스트림릿에서 이상 없고 온라인스트림릿에서 오류 생길 때
+protobuf==3.20.3  
+gspread
+google-auth 
